@@ -1,5 +1,6 @@
 # Freqtrade-Harmonic
 Copy of stable strategy for Freqtrade without trailing stoploss. 
+Change Cryptopairs from USDT to USDC Binance does not support USDT anymore (USDT is for Backtest)
 
 Year 2024 1-12 backtest 
 
